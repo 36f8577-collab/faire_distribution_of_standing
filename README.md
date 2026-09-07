@@ -1,1 +1,1 @@
-# faire_distribution_of_standing
+# fair_distribution_of_standing
